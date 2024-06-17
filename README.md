@@ -14,9 +14,6 @@ This repository contains the implementation of a machine learning project aimed 
   - [Model Selection](#model-selection)
   - [Evaluation Metric](#evaluation-metric)
 - [Final Submission](#final-submission)
-- [Usage](#usage)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Project Description
 
@@ -59,9 +56,3 @@ The F1 score was used as the main metric for model selection. The F1 score consi
 ## Final Submission
 
 The probabilities from both the seasonal and XYZ vaccine models were combined to generate the final submission. This approach ensures that the predictions are comprehensive and accurate.
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
