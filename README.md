@@ -60,42 +60,8 @@ The F1 score was used as the main metric for model selection. The F1 score consi
 
 The probabilities from both the seasonal and XYZ vaccine models were combined to generate the final submission. This approach ensures that the predictions are comprehensive and accurate.
 
-## Usage
-
-To use the code provided in this repository, follow these steps:
-
-1. Clone the repository to your local machine:
-    ```sh
-    git clone https://github.com/yourusername/vaccine-efficacy-prediction.git
-    cd vaccine-efficacy-prediction
-    ```
-
-2. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-3. Run the data preprocessing script:
-    ```sh
-    python data_preprocessing.py
-    ```
-
-4. Train the models:
-    ```sh
-    python train_models.py
-    ```
-
-5. Generate the final submission:
-    ```sh
-    python generate_submission.py
-    ```
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to all the contributors and the open-source community for their valuable tools and libraries.
-- Inspired by challenges in predictive modeling and vaccine efficacy studies.
 
